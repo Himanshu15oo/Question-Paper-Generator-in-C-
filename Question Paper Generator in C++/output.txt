@@ -1,0 +1,630 @@
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) Explain function  prototyping using examples.
+					Q2) Explain nesting of member functions.
+					Q3) Define class and expaluin general form of class.
+					Q4) Describe the mechanism of making and outside function inline.
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) Explain how static member functions are shared using exaples.
+					Q2) What are the Comments in C++?
+					Q3) What is the precedence when there is a Global variable and a Local variable in the program with the same name?
+					Q4) How do you define/declare constants in C++?
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) What are the various Arithmetic Operators in C++?
+					Q2) What are the Extraction and Insertion operators in C++? Explain with examples.
+					Q3) What is a Class?
+					Q4) What is a Constructor and how is it called?
+
+
+					Q.4 Attempt any FOUR of the following.									16M
+
+					Q1) What is the role of Static keyword for a class member variable?
+					Q2) What is the difference between a Copy Constructor and an Overloaded Assignment Operator?
+					Q3) What are the benefits of Operator Overloading?
+					Q4) What are Multiple Inheritances (virtual inheritance)? What are its advantages and disadvantages?
+
+
+					Q.5 Attempt any TWO of the following. 									12M
+
+					Q1) Give an example of Run-time Polymorphism/Virtual Functions.
+					Q2) What is a friend function?
+					Q3) Explain Pass by value and Pass by reference.
+					Q4) Why are arrays usually processed with for loop?
+
+
+					Q.6 Attempt any THREE of the following									12M
+
+					Q1) What is a Reference Variable in C++?
+					Q2) What is the keyword auto for?
+					Q3) Explain message pasing features in oop using examples.
+					Q4) Describe uses of enumeration data types with example.
+
+
+
+
+
+
+
+
+
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) Explain in details passing the argument.
+					Q2) Describing accesssing member of class.
+					Q3) Explain the static data members ares shared using examples.
+					Q4) What is a Constant? Explain with an example.
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What is the difference between equal to (==) and Assignment Operator (=)?
+					Q2) What are the various Access Specifiers in C++?
+					Q3) What is a Default Constructor?
+					Q4) Does C++ support Multilevel and Multiple Inheritances?
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) What are Virtual Functions?
+					Q2) What do you mean by ‘void’ return type?
+					Q3) What is an Inline function in C++?
+					Q4) What's the order in which the objects in an array are destructed?
+
+
+					Q.4 Attempt any FOUR of the following.									16M
+
+					Q1) Describe the structure to represent data and functions in oop progrmas.
+					Q2) Explain dynamic initialization of variable using example.
+					Q3) Explain manipulators using example.
+					Q4) Explain the concepts of objects,classes and data abstractions.
+
+
+					Q.5 Attempt any TWO of the following. 									12M
+
+					Q1) Define array and explain types of array.
+					Q2) List and explain operator used in c++.
+					Q3) Enlist advantages of function prototyping.
+					Q4) Expalin features of inline functions in details.
+
+
+					Q.6 Attempt any THREE of the following									12M
+
+					Q1) Describe creating objects of a class.
+					Q2) What is the basic structure of a C++ program?
+					Q3) Comment on Local and Global scope of a variable.
+					Q4) How many ways are there to initialize an int with a Constant?
+
+
+
+
+
+
+
+
+
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) State the difference between Pre and Post Increment/Decrement Operations.
+					Q2) What is a Class?
+					Q3) What are the various Access Specifiers in C++?
+					Q4) What is a Default Constructor?
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) Explain Function Overloading and Operator Overloading.
+					Q2) What are the benefits of Operator Overloading?
+					Q3) Does C++ support Multilevel and Multiple Inheritances?
+					Q4) What are Virtual Functions?
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) What are Virtual Constructors/Destructors?
+					Q2) What do you mean by ‘void’ return type?
+					Q3) What is an Inline function in C++?
+					Q4) What's the order in which the objects in an array are destructed?
+
+
+					Q.4 Attempt any FOUR of the following.									16M
+
+					Q1) What is the keyword auto for?
+					Q2) Describe the structure to represent data and functions in oop progrmas.
+					Q3) Explain dynamic initialization of variable using example.
+					Q4) expalin detais type compatibility.
+
+
+					Q.5 Attempt any TWO of the following. 									12M
+
+					Q1) Explain the concepts of objects,classes and data abstractions.
+					Q2) Define array and explain types of array.
+					Q3) List and explain operator used in c++.
+					Q4) Explain classification of control structures.
+
+
+					Q.6 Attempt any THREE of the following									12M
+
+					Q1) Explain in details passing the argument.
+					Q2) Expalin features of inline functions in details.
+					Q3) Describe creating objects of a class.
+					Q4) Explain the characteristics of static member function.
+
+
+
+
+
+
+
+
+
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What is the difference between equal to (==) and Assignment Operator (=)?
+					Q2) State the difference between Pre and Post Increment/Decrement Operations.
+					Q3) What is a Static Variable?
+					Q4) What is the difference between an Object and a Class?
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What is a Default Constructor?
+					Q2) Explain Function Overloading and Operator Overloading.
+					Q3) Function can be overloaded based on the parameter which is a value or a reference. Explain if the statement is true.
+					Q4) What are the advantages of Inheritance?
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) What are Virtual Functions?
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What are the various Access Specifiers in C++?
+					Q2) What is a Default Constructor?
+					Q3) Explain Function Overloading and Operator Overloading.
+					Q4) What are the benefits of Operator Overloading?
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) Does C++ support Multilevel and Multiple Inheritances?
+					Q2) What are Virtual Functions?
+					Q3) What are Virtual Constructors/Destructors?
+					Q4) What do you mean by ‘void’ return type?
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) What is an Inline function in C++?
+					Q2) What's the order in which the objects in an array are destructed?
+					Q3) Explain Mutable Storage class specifier.
+					Q4) Describe the structure to represent data and functions in oop progrmas.
+
+
+					Q.4 Attempt any FOUR of the following.									16M
+
+					Q1) Explain dynamic initialization of variable using example.
+					Q2) expalin detais type compatibility.
+					Q3) Explain identifire and constants in details.
+					Q4) Define array and explain types of array.
+
+
+					Q.5 Attempt any TWO of the following. 									12M
+
+					Q1) List and explain operator used in c++.
+					Q2) Explain classification of control structures.
+					Q3) Explain in details passing the argument.
+					Q4) Expalin features of inline functions in details.
+
+
+					Q.6 Attempt any THREE of the following									12M
+
+					Q1) Describe creating objects of a class.
+					Q2) Explain the characteristics of static member function.
+					Q3) What is the basic structure of a C++ program?
+					Q4) Comment on Local and Global scope of a variable.
+
+
+
+
+
+
+
+
+
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What is a Static Variable?
+					Q2) What is the difference between an Object and a Class?
+					Q3) What is a COPY CONSTRUCTOR and when is it called?
+					Q4) Explain Function Overloading and Operator Overloading.
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) Function can be overloaded based on the parameter which is a value or a reference. Explain if the statement is true.
+					Q2) What are the advantages of Inheritance?
+					Q3) What are Virtual Functions?
+					Q4) What are Virtual Constructors/Destructors?
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) What is a template?
+					Q2) What are Default Parameters? How are they evaluated in C++ function?
+					Q3) What's the order in which the objects in an array are destructed?
+					Q4) Explain Mutable Storage class specifier.
+
+
+					Q.4 Attempt any FOUR of the following.									16M
+
+					Q1) Explain applications of oop.
+					Q2) Explain dynamic binding in oop and its benefits.
+					Q3) expalin detais type compatibility.
+					Q4) Explain identifire and constants in details.
+
+
+					Q.5 Attempt any TWO of the following. 									12M
+
+					Q1) describr the structure of c++ programs.
+					Q2) List and explain tokens in c++ programming.
+					Q3) Explain classification of control structures.
+					Q4) describr the different styles of writing function prototyping.
+
+
+					Q.6 Attempt any THREE of the following									12M
+
+					Q1) List and explain advantages of inline functions.
+					Q2) Describe creating objects of a class.
+					Q3) Explain the characteristics of static member function.
+					Q4) Difference between Declaration and Definition of a variable.
+
+
+
+
+
+
+
+
+
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What is Inheritance?
+					Q2) What are Multiple Inheritances (virtual inheritance)? What are its advantages and disadvantages?
+					Q3) Give an example of Run-time Polymorphism/Virtual Functions.
+					Q4) What is a friend class?
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) Explain Pass by value and Pass by reference.
+					Q2) Why are arrays usually processed with for loop?
+					Q3) What is a Reference Variable in C++?
+					Q4) Enlist benefits of oop.
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) Explain message pasing features in oop using examples.
+					Q2) Describe uses of enumeration data types with example.
+					Q3) Explain manipulators using example.
+					Q4) Explain the concepts of inheritance,polymorphism and dynamic binding.
+
+
+					Q.4 Attempt any FOUR of the following.									16M
+
+					Q1) Explain classifications of data types in c++.
+					Q2) Define expressions and explain types of expressions.
+					Q3) Enlist advantages of function prototyping.
+					Q4) Explain nesting of member functions.
+
+
+					Q.5 Attempt any TWO of the following. 									12M
+
+					Q1) Define class and expaluin general form of class.
+					Q2) Describing accesssing member of class.
+					Q3) Explain how static member functions are shared using exaples.
+					Q4) What are the Comments in C++?
+
+
+					Q.6 Attempt any THREE of the following									12M
+
+					Q1) What is the precedence when there is a Global variable and a Local variable in the program with the same name?
+					Q2) What is a Constant? Explain with an example.
+					Q3) What are the various Arithmetic Operators in C++?
+					Q4) What are the Extraction and Insertion operators in C++? Explain with examples.
+
+
+
+
+
+
+
+
+
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What is the difference between a Copy Constructor and an Overloaded Assignment Operator?
+					Q2) What are the benefits of Operator Overloading?
+					Q3) Does C++ support Multilevel and Multiple Inheritances?
+					Q4) Give an example of Run-time Polymorphism/Virtual Functions.
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What is a friend function?
+					Q2) What do you mean by ‘void’ return type?
+					Q3) Why are arrays usually processed with for loop?
+					Q4) What is a Reference Variable in C++?
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) What is the keyword auto for?
+					Q2) Describe the structure to represent data and functions in oop progrmas.
+					Q3) Describe uses of enumeration data types with example.
+					Q4) Explain manipulators using example.
+
+
+					Q.4 Attempt any FOUR of the following.									16M
+
+					Q1) Explain the concepts of objects,classes and data abstractions.
+					Q2) Define array and explain types of array.
+					Q3) Define expressions and explain types of expressions.
+					Q4) Enlist advantages of function prototyping.
+
+
+					Q.5 Attempt any TWO of the following. 									12M
+
+					Q1) Explain in details passing the argument.
+					Q2) Expalin features of inline functions in details.
+					Q3) Describing accesssing member of class.
+					Q4) Explain the static data members ares shared using examples.
+
+
+					Q.6 Attempt any THREE of the following									12M
+
+					Q1) What is the basic structure of a C++ program?
+					Q2) What is the precedence when there is a Global variable and a Local variable in the program with the same name?
+					Q3) What is a Constant? Explain with an example.
+					Q4) What is the difference between equal to (==) and Assignment Operator (=)?
+
+
+
+
+
+
+
+
+
+
+
+
+											GOVERNMENT POLYTECNIC PUNE 411061
+										(An Autonomous Institute of Govt. of Maharashtra)
+												TERM EXAM ODD2019
+															Enroll. No:1807020
+					--------------------------------------------------------------------------------------------------------------
+
+					Programme: Diploma in Information Technology
+
+
+					Course Name: Object Oriented Programming: C++					Time Allowed: 3 Hrs.
+
+					Course Code:CM388								Max Marks: 80
+
+					--------------------------------------------------------------------------------------------------------------
+
+
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What is a Default Constructor?
+					Q2) Explain Function Overloading and Operator Overloading.
+					Q3) What are the benefits of Operator Overloading?
+					Q4) Does C++ support Multilevel and Multiple Inheritances?
+
+
+					Q.1 Attempt any FOUR of the following.									16M
+
+					Q1) What are Virtual Functions?
+					Q2) What are Virtual Constructors/Destructors?
+					Q3) What do you mean by ‘void’ return type?
+					Q4) What is an Inline function in C++?
+
+
+					Q.3 Attempt any TWO of the following. 									12M
+
+					Q1) What's the order in which the objects in an array are destructed?
+					Q2) Explain Mutable Storage class specifier.
+					Q3) Describe the structure to represent data and functions in oop progrmas.
+					Q4) Explain dynamic initialization of variable using example.
+
+
+					Q.4 Attempt any FOUR of the following.									16M
+
+					Q1) expalin detais type compatibility.
+					Q2) Explain the concepts of objects,classes and data abstractions.
+					Q3) Define array and explain types of array.
+					Q4) List and explain operator used in c++.
+
+
+					Q.5 Attempt any TWO of the following. 									12M
+
+					Q1) Explain classification of control structures.
+					Q2) Explain in details passing the argument.
+					Q3) Expalin features of inline functions in details.

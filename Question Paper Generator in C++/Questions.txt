@@ -1,0 +1,94 @@
+) What is the basic structure of a C++ program?
+) What are the Comments in C++?
+) Difference between Declaration and Definition of a variable.
+) Comment on Local and Global scope of a variable.
+) What is the precedence when there is a Global variable and a Local variable in the program with the same name?
+) When there is a Global variable and Local variable with the same name, how will you access the global variable?
+) How many ways are there to initialize an int with a Constant?
+) What is a Constant? Explain with an example.
+) How do you define/declare constants in C++?
+) Comment on Assignment Operator in C++.
+) What is the difference between equal to (==) and Assignment Operator (=)?
+) What are the various Arithmetic Operators in C++?
+) What are the various Compound Assignment Operators in C++?
+) State the difference between Pre and Post Increment/Decrement Operations.
+) What are the Extraction and Insertion operators in C++? Explain with examples.
+) What is the difference between while and do while loop? Explain with examples.
+) What is a Static Variable?
+) What is a Class?
+) Difference between Class and Structure.
+) What is the difference between an Object and a Class?
+) What are the various Access Specifiers in C++?
+) What is a Constructor and how is it called?
+) What is a COPY CONSTRUCTOR and when is it called?
+) What is a Default Constructor?
+) What is the role of Static keyword for a class member variable?
+) Explain the Static Member Function.
+) Explain Function Overloading and Operator Overloading.
+) What is the difference between a Copy Constructor and an Overloaded Assignment Operator?
+) Name the Operators that cannot be Overloaded.
+) Function can be overloaded based on the parameter which is a value or a reference. Explain if the statement is true.
+) What are the benefits of Operator Overloading?
+) What is Inheritance?
+) What are the advantages of Inheritance?
+) Does C++ support Multilevel and Multiple Inheritances?
+) What are Multiple Inheritances (virtual inheritance)? What are its advantages and disadvantages?
+) What is Polymorphism?
+) What are Virtual Functions?
+) Give an example of Run-time Polymorphism/Virtual Functions.
+) What do you mean by Pure Virtual Functions?
+) What are Virtual Constructors/Destructors?
+) What is a friend function?
+) What is a friend class?
+) What is a template?
+) What do you mean by ‘void’ return type?
+) Explain Pass by value and Pass by reference.
+) What are Default Parameters? How are they evaluated in C++ function?
+) What is an Inline function in C++?
+) Why are arrays usually processed with for loop?
+) State the difference between delete and delete[].
+) What's the order in which the objects in an array are destructed?
+) What is a Reference Variable in C++?
+) What is a Storage Class? Mention the Storage Classes in C++.
+) Explain Mutable Storage class specifier.
+) What is the keyword auto for?
+) Enlist benefits of oop.
+) Explain applications of oop.
+) Describe the structure to represent data and functions in oop progrmas.
+) Explain message pasing features in oop using examples.
+) Explain dynamic binding in oop and its benefits.
+) Explain dynamic initialization of variable using example.
+) Describe uses of enumeration data types with example.
+) Define reference variable and explain types of array.
+) expalin detais type compatibility.
+) Explain manipulators using example.
+) Explain in brief type Cast operator.
+) Explain identifire and constants in details.
+) Explain the concepts of objects,classes and data abstractions.
+) Explain the concepts of inheritance,polymorphism and dynamic binding.
+) describr the structure of c++ programs.
+) Define array and explain types of array.
+) Explain classifications of data types in c++.
+) List and explain tokens in c++ programming.
+) List and explain operator used in c++.
+) Define expressions and explain types of expressions.
+) Write down syntax of while loop and do while loop.
+) Explain classification of control structures.
+) Enlist advantages of function prototyping.
+) Explain function  prototyping using examples.
+) describr the different styles of writing function prototyping.
+) Explain in details passing the argument.
+) Explain nesting of member functions.
+) List and explain advantages of inline functions.
+) Expalin features of inline functions in details.
+) Define class and expaluin general form of class.
+) justify data hiding and accomplished by class.
+) Describe creating objects of a class.
+) Describing accesssing member of class.
+) Describe the mechanism of making and outside function inline.
+) Explain the characteristics of static member function.
+) Explain the static data members ares shared using examples.
+) Explain how static member functions are shared using exaples.
+) list characteristics of friend functions.
+
+
